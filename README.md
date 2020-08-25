@@ -1,2 +1,2 @@
 # tech-project
-Tech project 2
+Tech project
