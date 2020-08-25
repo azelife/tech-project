@@ -1,2 +1,2 @@
 # tech-project
-Tech project 2020
+Tech project
